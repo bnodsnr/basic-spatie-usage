@@ -1,5 +1,3 @@
-<p align="center"><a href="bmsnepal.net" target="_blank"><img src="https://bmsnepal.net/assets/img/11.png" width="400"></a></p>## BMS BOILER PLATE TO GETSTARTED WITH LARAVEL.
-
 Laravel Boilerplate (Current: Laravel 8.*)
 Demo Credentials:
 admin: bmsnepal
@@ -25,14 +23,3 @@ Installation
 # php artisan db:seed --class=UserPermissionSeeder
 
 ## Trem & condition
-
-Please visit bmsnepal.net
-
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within the product, please send an e-mail to BMSNEPAL via [bmsnepal.net](mailto:info@bmsnepal.net). All security vulnerabilities will be promptly addressed.
-
-## License
-
-This software licensed under the [BMS license].
